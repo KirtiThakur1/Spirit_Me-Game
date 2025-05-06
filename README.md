@@ -24,11 +24,17 @@
 
 ![Game Preview](dialogue.png)
 
-## 🎥 Gameplay Demo --> Click on the below image
-[![Watch the Demo](https://img.youtube.com/vi/IYOAgFRAGM8/0.jpg)](https://youtu.be/IYOAgFRAGM8)
-
-
-
 ⭐ **Inspiration:**
 
 The game draws from ancient Indian moral stories and spiritual concepts, aiming to teach empathy and reward helpfulness through storytelling. It’s lighthearted but meaningful.
+
+## 🚀 Try It Live
+
+[![Play on itch.io](https://img.shields.io/badge/Play_on-Itch.io-red?logo=itch-io&style=for-the-badge)](https://shriy-singh.itch.io/spirit-me)
+
+Or visit directly: https://shriy-singh.itch.io/spirit-me
+
+
+## 🎥 Gameplay Demo --> Click on the below image
+[![Watch the Demo](https://img.youtube.com/vi/IYOAgFRAGM8/0.jpg)](https://youtu.be/IYOAgFRAGM8)
+
