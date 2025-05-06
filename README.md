@@ -18,10 +18,15 @@
 
 📸 **Screenshots:**
 
-![Game Preview](assets/screenshots/start_page.png)
-![Game Preview](assets/screenshots/controls.png)
-![Game Preview](assets/screenshots/dialogue.png)
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/IYOAgFRAGM8)
+![Game Preview](start_page.png)
+
+![Game Preview](controls.png)
+
+![Game Preview](dialogue.png)
+
+
+[![Watch the Demo](https://img.youtube.com/vi/IYOAgFRAGM8/0.jpg)](https://youtu.be/IYOAgFRAGM8)
+
 
 
 ⭐ **Inspiration:**
