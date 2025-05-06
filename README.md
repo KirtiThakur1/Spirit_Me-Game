@@ -24,7 +24,7 @@
 
 ![Game Preview](dialogue.png)
 
-
+## 🎥 Gameplay Demo --> Click on the below image
 [![Watch the Demo](https://img.youtube.com/vi/IYOAgFRAGM8/0.jpg)](https://youtu.be/IYOAgFRAGM8)
 
 
